@@ -1,0 +1,1 @@
+/home/raf/Dropbox/getVariables.sh
